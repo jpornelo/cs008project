@@ -1,5 +1,6 @@
 <?php
 include "top.php";
+include "nav.php";
 ?>
 
     <body id="squad">
@@ -7,12 +8,9 @@ include "top.php";
             <img alt="Suicide Squad Movie Poster" src="images/suicideSquadCover.png" width="200">
             <figcaption>Suicide Squad</figcaption>
         </figure>
-    <video id="video" src="videos/suicideSquadVideo.mp4"
-           poster="images/suicideSquadScreen.JPG"
-           width="600px"
-           controls="controls">
-    </video>
 
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/oKQ6-TT9DEw" frameborder="0" allowfullscreen></iframe>
+        
 <style type="text/css">
     html{
         background: url(images/suicideSquadBackground.jpg) no-repeat center center fixed;

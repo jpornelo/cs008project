@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>Upcoming Superhero Movies</title>
+        <title>Upcoming Movies</title>
         <meta charset="utf-8">
         <meta name="author" content="Jonathan Pornelos">
         <link rel="stylesheet"
@@ -29,8 +29,9 @@
     <?php
 // giving each body tag an id really helps with css later on
             print '<body id="' . $path_parts['filename'] . '">';
+            include "mainNav.php";
             include "header.php";
-            include "nav.php";
+            
     ?>
 
 

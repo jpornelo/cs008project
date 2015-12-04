@@ -1,5 +1,6 @@
 <?php
 include "top.php";
+include "nav.php";
 ?>
 
     <body id="batVsSup">
@@ -7,13 +8,8 @@ include "top.php";
             <img alt="Batman vs Superman Movie Poster" src="images/batmanSupermanCover.jpg" width="200">
             <figcaption>Batman vs Superman</figcaption>
         </figure>
-    <object>
-    <video id="video" src="videos/batmanSupermanVideo.mp4"
-           poster="images/batmanSupermanScreen.JPG"
-           width="600px"
-           controls="controls">
-    </video>
-    </object>    
+   
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/kW9ZqFxRaQY" frameborder="0" allowfullscreen></iframe>
 
 <style type="text/css">
     html{

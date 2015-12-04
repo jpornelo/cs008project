@@ -1,17 +1,14 @@
 <?php
 include "top.php";
+include "nav.php";
 ?>
 <body id="deadpool">
         <figure class="img-left">
             <img alt="Deadpool Movie Poster" src="images/deadpoolCover.jpg" width="200">
             <figcaption>Deadpool</figcaption>
         </figure>
-    <video id="video" src="videos/deadpoolVideo.mp4"
-           poster="images/deadpoolScreen.JPG"
-           width="600px"
-           controls="controls">
-               
-    </video>
+    
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/ONHBaC-pfsk" frameborder="0" allowfullscreen></iframe>
 
 <style type="text/css">
     html{

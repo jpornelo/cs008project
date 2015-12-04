@@ -1,5 +1,6 @@
 <?php
 include "top.php";
+include "nav.php";
 ?>
 <body id="xMen">
         <figure class="img-left">
