@@ -17,9 +17,6 @@ include "nav.php";
 
     <body>
   
-    
-    <h1>Home</h1>
-    
         <?php include ("footer.php"); ?>
 </body>
 

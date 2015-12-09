@@ -1,6 +1,9 @@
 
 <!DOCTYPE html>
 <html lang="en">
+    <?php
+    include "mainNav.php";
+    ?>
     <head>
         <title>Upcoming Movies</title>
         <meta charset="utf-8">
@@ -29,7 +32,7 @@
     <?php
 // giving each body tag an id really helps with css later on
             print '<body id="' . $path_parts['filename'] . '">';
-            include "mainNav.php";
+            
             include "header.php";
             
     ?>

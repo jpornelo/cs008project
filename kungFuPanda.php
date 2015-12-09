@@ -9,7 +9,9 @@ include "navAnimation.php";
         </figure>
     
     <iframe width="560" height="315" src="https://www.youtube.com/embed/fGPPfZIvtCw" frameborder="0" allowfullscreen></iframe>
-
+    <h1 class="storyline">Storyline</h1>
+    <hr>
+    <p class="abstract">When Po's long-lost panda father suddenly reappears, the reunited duo travels to a secret panda paradise to meet scores of hilarious new panda characters. But when the supernatural villain Kai begins to sweep across China defeating all the kung fu masters, Po must do the impossible-learn to train a village full of his fun-loving, clumsy brethren to become the ultimate band of Kung Fu Pandas.</p>
 <style type="text/css">
     html{
         background: url(images/animation/kungFuPanda2Background.jpg) no-repeat center center fixed;

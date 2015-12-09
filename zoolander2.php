@@ -9,7 +9,9 @@ include "navComedy.php";
         </figure>
 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/4CL4LNWHegk" frameborder="0" allowfullscreen></iframe>
-    
+    <h1 class="storyline">Storyline</h1>
+    <hr>
+    <p class="abstract">When the world's most beautiful people are systematically assassinated with formerly famous male model Derek Zoolander's iconic "Blue Steel" look on their face, Interpol recruits Derek and his friend Hansel McDonald to infiltrate a new and different world of high fashion in order to put a stop to it. Meanwhile, Derek's rival Jacobim Mugatu is set free for his revenge.</p>
 <style type="text/css">
     html{
         background: url(images/comedy/zoolander2Background.jpg) no-repeat center center fixed;
